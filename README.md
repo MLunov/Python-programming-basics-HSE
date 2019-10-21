@@ -1,5 +1,5 @@
 # Python programming basics (Russian: Основы программирования на Python)
-This repository contains materials and solutions for [Python programming basics](https://www.coursera.org/learn/python-osnovy-programmirovaniya), created by National Research University Higher School of Economics, one of the top research
+This repository contains materials and solutions for [Python programming basics](https://www.coursera.org/learn/python-osnovy-programmirovaniya) course, created by National Research University Higher School of Economics, one of the top research
 universities in Russia.
 *** 
 **Please make homeworks by your own and look in this repository only when you've already done the assignments. Anyway, it is in your interests if you really want to learn something**.
